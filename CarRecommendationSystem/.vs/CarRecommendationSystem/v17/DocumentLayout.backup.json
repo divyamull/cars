@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\divya\\Downloads\\CarRecommendationSystem-master\\CarRecommendationSystem-master\\CarRecommendationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC1A41C-629F-44A9-99CA-8245B5331F6F}|CarRecommendationSystem\\CarRecommendationSystem.csproj|c:\\users\\divya\\downloads\\carrecommendationsystem-master\\carrecommendationsystem-master\\carrecommendationsystem\\carrecommendationsystem\\forms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC1A41C-629F-44A9-99CA-8245B5331F6F}|CarRecommendationSystem\\CarRecommendationSystem.csproj|solutionrelative:carrecommendationsystem\\forms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC1A41C-629F-44A9-99CA-8245B5331F6F}|CarRecommendationSystem\\CarRecommendationSystem.csproj|C:\\Users\\divya\\Downloads\\CarRecommendationSystem-master\\CarRecommendationSystem-master\\CarRecommendationSystem\\carrecommendationsystem\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFC1A41C-629F-44A9-99CA-8245B5331F6F}|CarRecommendationSystem\\CarRecommendationSystem.csproj|solutionrelative:carrecommendationsystem\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5333CB-75E1-4C01-ACB0-D382909085B2}|CarRecommendationSystemML.ConsoleApp\\CarRecommendationSystemML.ConsoleApp.csproj|c:\\users\\divya\\downloads\\carrecommendationsystem-master\\carrecommendationsystem-master\\carrecommendationsystem\\carrecommendationsystemml.consoleapp\\carrecommendationsystemml.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE5333CB-75E1-4C01-ACB0-D382909085B2}|CarRecommendationSystemML.ConsoleApp\\CarRecommendationSystemML.ConsoleApp.csproj|solutionrelative:carrecommendationsystemml.consoleapp\\carrecommendationsystemml.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\divya\\Downloads\\CarRecommendationSystem-master\\CarRecommendationSystem-master\\CarRecommendationSystem\\CarRecommendationSystem\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "CarRecommendationSystem\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\divya\\Downloads\\CarRecommendationSystem-master\\CarRecommendationSystem-master\\CarRecommendationSystem\\CarRecommendationSystem\\Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "CarRecommendationSystem\\Forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:59:00.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\divya\\Downloads\\CarRecommendationSystem-master\\CarRecommendationSystem-master\\CarRecommendationSystem\\CarRecommendationSystem\\Forms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CarRecommendationSystem\\Forms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\divya\\Downloads\\CarRecommendationSystem-master\\CarRecommendationSystem-master\\CarRecommendationSystem\\CarRecommendationSystem\\Forms\\Form1.Designer.cs",
+              "RelativeToolTip": "CarRecommendationSystem\\Forms\\Form1.Designer.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAcwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:58:44.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarRecommendationSystemML.ConsoleApp.csproj",
+              "DocumentMoniker": "C:\\Users\\divya\\Downloads\\CarRecommendationSystem-master\\CarRecommendationSystem-master\\CarRecommendationSystem\\CarRecommendationSystemML.ConsoleApp\\CarRecommendationSystemML.ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "CarRecommendationSystemML.ConsoleApp\\CarRecommendationSystemML.ConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\divya\\Downloads\\CarRecommendationSystem-master\\CarRecommendationSystem-master\\CarRecommendationSystem\\CarRecommendationSystemML.ConsoleApp\\CarRecommendationSystemML.ConsoleApp.csproj",
+              "RelativeToolTip": "CarRecommendationSystemML.ConsoleApp\\CarRecommendationSystemML.ConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T11:58:18.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

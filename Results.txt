@@ -1,0 +1,22 @@
+Hyundai Sonata SE Sedan (2020);33.01
+Mazda 6 Grand Touring Sedan (2020);31.82
+Mercedes-Benz C-Class AMG C 43 Sedan (2020);31.25
+Mercedes-Benz C-Class AMG C 43 Sedan (2020);31.25
+Mercedes-Benz C-Class AMG C 43 Sedan (2020);31.25
+Mercedes-Benz C-Class AMG C 43 Sedan (2020);30.96
+Mercedes-Benz C-Class AMG C 43 Sedan (2020);30.96
+BMW 3 Series M340i Sedan (2020);26.52
+Mazda 6 Grand Touring Sedan (2020);16.49
+Audi A4 Premium Plus 45 TFSI Sedan (2020);15.82
+Audi A4 Premium Plus 45 TFSI Sedan (2020);15.76
+Volkswagen Arteon SEL Premium R-Line Hatchback (2020);15.43
+Volkswagen Arteon SEL Premium R-Line Hatchback (2020);15.23
+Hyundai Sonata Limited Sedan (2020);14.80
+Volkswagen Arteon SEL Premium R-Line Hatchback (2020);14.78
+Hyundai Sonata Limited Sedan (2020);14.76
+Hyundai Sonata SE Sedan (2020);14.60
+Hyundai Sonata Limited Sedan (2020);14.50
+Hyundai Sonata Limited Sedan (2020);14.46
+Hyundai Sonata Limited Sedan (2020);14.21
+Hyundai Sonata Limited Sedan (2020);13.46
+Hyundai Sonata Limited Sedan (2020);12.61

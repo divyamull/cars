@@ -1,0 +1,11 @@
+C:\Users\divya\Downloads\CarRecommendationSystem-master\CarRecommendationSystem-master\CarRecommendationSystem\CarRecommendationSystemML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\divya\Downloads\CarRecommendationSystem-master\CarRecommendationSystem-master\CarRecommendationSystem\CarRecommendationSystemML.Model\bin\Debug\netstandard2.0\CarRecommendationSystemML.Model.deps.json
+C:\Users\divya\Downloads\CarRecommendationSystem-master\CarRecommendationSystem-master\CarRecommendationSystem\CarRecommendationSystemML.Model\bin\Debug\netstandard2.0\CarRecommendationSystemML.Model.dll
+C:\Users\divya\Downloads\CarRecommendationSystem-master\CarRecommendationSystem-master\CarRecommendationSystem\CarRecommendationSystemML.Model\bin\Debug\netstandard2.0\CarRecommendationSystemML.Model.pdb
+C:\Users\divya\Downloads\CarRecommendationSystem-master\CarRecommendationSystem-master\CarRecommendationSystem\CarRecommendationSystemML.Model\obj\Debug\netstandard2.0\CarRecommendationSystemML.Model.csproj.AssemblyReference.cache
+C:\Users\divya\Downloads\CarRecommendationSystem-master\CarRecommendationSystem-master\CarRecommendationSystem\CarRecommendationSystemML.Model\obj\Debug\netstandard2.0\CarRecommendationSystemML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divya\Downloads\CarRecommendationSystem-master\CarRecommendationSystem-master\CarRecommendationSystem\CarRecommendationSystemML.Model\obj\Debug\netstandard2.0\CarRecommendationSystemML.Model.AssemblyInfoInputs.cache
+C:\Users\divya\Downloads\CarRecommendationSystem-master\CarRecommendationSystem-master\CarRecommendationSystem\CarRecommendationSystemML.Model\obj\Debug\netstandard2.0\CarRecommendationSystemML.Model.AssemblyInfo.cs
+C:\Users\divya\Downloads\CarRecommendationSystem-master\CarRecommendationSystem-master\CarRecommendationSystem\CarRecommendationSystemML.Model\obj\Debug\netstandard2.0\CarRecommendationSystemML.Model.csproj.CoreCompileInputs.cache
+C:\Users\divya\Downloads\CarRecommendationSystem-master\CarRecommendationSystem-master\CarRecommendationSystem\CarRecommendationSystemML.Model\obj\Debug\netstandard2.0\CarRecommendationSystemML.Model.dll
+C:\Users\divya\Downloads\CarRecommendationSystem-master\CarRecommendationSystem-master\CarRecommendationSystem\CarRecommendationSystemML.Model\obj\Debug\netstandard2.0\CarRecommendationSystemML.Model.pdb
